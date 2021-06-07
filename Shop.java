@@ -1,4 +1,4 @@
-package model;
+
 
 public enum Shop {
     SEWINGMACHINE(Product.CLOTH, Product.DRESS, 1, 6, 400),
